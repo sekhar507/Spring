@@ -1,0 +1,13 @@
+INDEX VERSION 1.127
+G:\Springs  work space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\723288546.index
+\course-api\src\main\java
+G:\Springs  work space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1433062812.index
+\SpringMvc ofc\src\main\java
+G:\Springs  work space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2631048621.index
+\struts2\src\main\java
+G:\Springs  work space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2730152307.index
+\spring-boot-web-jsp\src\test\java
+G:\Springs  work space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4230106285.index
+\SpringMvc ofc\src\main\java
+G:\Springs  work space\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1578981725.index
+\SpringBootElasticSearch\src\main\resources
